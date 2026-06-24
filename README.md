@@ -1,4 +1,4 @@
-#                                           🤖    AI-Powered Advanced ATS Resume Analyzer
+#                                                                                        🤖    AI-Powered Advanced ATS Resume Analyzer
 
 <div align="center">
 
